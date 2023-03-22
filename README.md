@@ -39,6 +39,7 @@ CAST RANGE:
 550.0 / 750.0 / 950.0 / 1150.0
 
 ![image](https://user-images.githubusercontent.com/128576237/226828548-76725267-bb69-4626-9561-501951147270.png)
+
 PHANTOM STRIKE
 
 Teleports to a unit, friendly or enemy, and grants bonus attack speed and lifesteal while attacking if it's an enemy unit.
@@ -59,6 +60,8 @@ CAST RANGE:
 11.0 / 9.0 / 7.0 / 5.0
 35 / 40 / 45 / 50
 Mortred's silken veil is the last thing her unfortunate target sees.
+
+![image](https://user-images.githubusercontent.com/128576237/226828741-a046272b-de68-4cf3-ac48-a7ede235be25.png)
 
 BLUR
 
@@ -89,23 +92,35 @@ Stacks diminishingly with other sources of Evasion.
 
 (This is The ULTIMATE SKILL)
 
+![image](https://user-images.githubusercontent.com/128576237/226828796-f13a4352-5b23-484d-9441-33f222183ab0.png)
+
 COUP DE GRACE
 
 Phantom Assassin refines her combat abilities, gaining a chance of delivering a devastating critical strike to enemy units. Stifling Dagger shares the same critical strike chance.
 
-Skill of Aghanim And Shard
+*Skill of Aghanim And Shard*
+
+![image](https://user-images.githubusercontent.com/128576237/226828848-41d2fa42-116d-42f4-8bab-c3b711330f3e.png)
 
 FAN OF KNIVES
 
 (SHARD GRANTS NEW ABILITY)
 Phantom Assassin releases sharp blades around her, dealing a percentage of each victim's max health on impact and applying Break.
 
+![image](https://user-images.githubusercontent.com/128576237/226828881-23a034dc-9b81-4ccc-adee-933d6188ef3f.png)
+
 BLUR
 
 SCEPTER ABILITY UPGRADE
 Causes Blur to have instant cast time and applies a dispel. Any time Phantom Assassin gets a hero kill, her abilities are refreshed. Reduces cooldown and increases Vanish Buffer
 
-Phantom Lancer Skill tat i like the most is this
+![image](https://user-images.githubusercontent.com/128576237/226828936-1acae81e-6c8e-4dce-8343-9cff630095ae.png)
+
+Phantom Lancer
+
+Skill tat i like the most is this
+
+![image](https://user-images.githubusercontent.com/128576237/226829009-aedb2dd1-704c-47d7-8cc2-8c556bde6ce9.png)
 
 PHANTOM RUSH
 
