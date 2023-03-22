@@ -11,7 +11,7 @@ Through a process of divination, children are selected for upbringing by the Sis
 
 Her skill
 
-STIFLING DAGGER![image](https://user-images.githubusercontent.com/128576237/226828340-28605a83-0424-43be-9298-a3a36e145291.png)
+![image](https://user-images.githubusercontent.com/128576237/226828340-28605a83-0424-43be-9298-a3a36e145291.png)STIFLING DAGGER
 
 Throws a dagger slowing the enemy unit's movement speed, dealing 65.0+25.0% of Phantom Assassin's attack damage as physical damage and applying attack effects from items and abilities.
 
@@ -36,6 +36,7 @@ ATTACK DAMAGE:
 CAST RANGE:
 550.0 / 750.0 / 950.0 / 1150.0
 
+![image](https://user-images.githubusercontent.com/128576237/226828548-76725267-bb69-4626-9561-501951147270.png)
 PHANTOM STRIKE
 
 Teleports to a unit, friendly or enemy, and grants bonus attack speed and lifesteal while attacking if it's an enemy unit.
