@@ -17,78 +17,71 @@ STIFLING DAGGER
 
 Throws a dagger slowing the enemy unit's movement speed, dealing 65.0+25.0% of Phantom Assassin's attack damage as physical damage and applying attack effects from items and abilities.
 
-ABILITY:
-Unit Target
-AFFECTS:
-Enemy Units
-DAMAGE TYPE:
-Physical
-PIERCES SPELL IMMUNITY:
-Yes
-DISPELLABLE:
-Yes
-MOVE SLOW:
--50.0%
-SLOW DURATION:
-2.2 / 2.8 / 3.4 / 4.0
-BASE DAMAGE:
-65.0 / 70.0 / 75.0 / 80.0
-ATTACK DAMAGE:
-25.0% / 40.0% / 55.0% / 70.0%
-CAST RANGE:
-550.0 / 750.0 / 950.0 / 1150.0
+ABILITY: Unit Target
+
+AFFECTS: Enemy Units
+
+DAMAGE TYPE: Physical
+
+PIERCES SPELL IMMUNITY: Yes
+
+DISPELLABLE: Yes
+
+MOVE SLOW: -50.0%
+
+SLOW DURATION: 2.2 / 2.8 / 3.4 / 4.0
+
+BASE DAMAGE: 65.0 / 70.0 / 75.0 / 80.0
+
+ATTACK DAMAGE: 25.0% / 40.0% / 55.0% / 70.0%
+
+CAST RANGE: 550.0 / 750.0 / 950.0 / 1150.0
 
 ![image](https://user-images.githubusercontent.com/128576237/226828548-76725267-bb69-4626-9561-501951147270.png)
 
 PHANTOM STRIKE
 
 Teleports to a unit, friendly or enemy, and grants bonus attack speed and lifesteal while attacking if it's an enemy unit.
-ABILITY:
-Unit Target
-PIERCES SPELL IMMUNITY:
-Yes
-DISPELLABLE:
-Yes
-BONUS ATTACK SPEED:
-80.0 / 110.0 / 140.0 / 170.0
-DURATION:
-2.0
-LIFESTEAL:
-10.0% / 15.0% / 20.0% / 25.0%
-CAST RANGE:
-1000.0
-11.0 / 9.0 / 7.0 / 5.0
-35 / 40 / 45 / 50
-Mortred's silken veil is the last thing her unfortunate target sees.
+
+ABILITY: Unit Target
+
+PIERCES SPELL IMMUNITY: Yes
+
+DISPELLABLE: Yes
+
+BONUS ATTACK SPEED: 80.0 / 110.0 / 140.0 / 170.0
+
+DURATION: 2.0
+
+LIFESTEAL: 10.0% / 15.0% / 20.0% / 25.0%
+
+CAST RANGE: 1000.0
 
 ![image](https://user-images.githubusercontent.com/128576237/226828741-a046272b-de68-4cf3-ac48-a7ede235be25.png)
 
 BLUR
 
 Phantom Assassin focuses inward, increasing her ability to evade enemy attacks. Can be activated to blur her body, causing her to be impossible to see until near enemy heroes, towers, or outposts.
-ABILITY:
-No Target
-AFFECTS:
-Allied Heroes
-DISPELLABLE:
-No
-EVASION:
-20.0% / 30.0% / 40.0% / 50.0%
-DURATION:
-25.0
-VANISH RADIUS:
-400.0
-VANISH BUFFER:
-0.5
-COOLDOWN:
-10.0
-VANISH BUFFER:
-0.8
-60.0 / 55.0 / 50.0 / 45.0
-50
-Meditation allows a Veiled Sister to carefully anticipate her opponents in combat.
 
-Stacks diminishingly with other sources of Evasion.
+ABILITY: No Target
+
+AFFECTS: Allied Heroes
+
+DISPELLABLE: No
+
+EVASION: 20.0% / 30.0% / 40.0% / 50.0%
+
+DURATION: 25.0
+
+VANISH RADIUS: 400.0
+
+VANISH BUFFER: 0.5
+
+COOLDOWN: 10.0
+
+VANISH BUFFER: 0.8
+
+(Stacks diminishingly with other sources of Evasion)
 
 (This is The ULTIMATE SKILL)
 
@@ -125,18 +118,15 @@ Skill tat i like the most is this
 PHANTOM RUSH
 
 When targetting an enemy for an attack, Phantom Lancer quickly charges into range, gaining a temporary agility boost. Phantom Lancer's illusions also have this ability.
-ABILITY:
-No Target
-DISPELLABLE:
-Yes
-MIN RUSH DISTANCE:
-200.0
-MAX RUSH DISTANCE:
-600.0 / 675.0 / 750.0 / 825.0
-<a href="https://bit.ly/3JJg1r3">BONUS</a> AGILITY:
-10.0 / 20.0 / 30.0 / 40.0
-BONUS AGILITY DURATION:
-1.5
-13.0 / 10.0 / 7.0 / 4.0
 
-Azwraith knows that on the field of battle, speed can mean everything.
+ABILITY: No Target
+
+DISPELLABLE: Yes
+
+MIN RUSH DISTANCE: 200.0
+
+MAX RUSH DISTANCE: 600.0 / 675.0 / 750.0 / 825.0
+
+<a href="https://bit.ly/3JJg1r3">BONUS</a> AGILITY: 10.0 / 20.0 / 30.0 / 40.0
+
+BONUS AGILITY DURATION:1.5
