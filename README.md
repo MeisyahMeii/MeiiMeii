@@ -99,7 +99,7 @@ MIN RUSH DISTANCE:
 200.0
 MAX RUSH DISTANCE:
 600.0 / 675.0 / 750.0 / 825.0
-<a href="bit.ly/3JJg1r3">BONUS</a> AGILITY:
+<a href="https://bit.ly/3JJg1r3">BONUS</a> AGILITY:
 10.0 / 20.0 / 30.0 / 40.0
 BONUS AGILITY DURATION:
 1.5
