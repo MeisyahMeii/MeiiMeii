@@ -11,7 +11,7 @@ Through a process of divination, children are selected for upbringing by the Sis
 
 Her skill
 
-STIFLING DAGGER
+STIFLING DAGGER![image](https://user-images.githubusercontent.com/128576237/226828340-28605a83-0424-43be-9298-a3a36e145291.png)
 
 Throws a dagger slowing the enemy unit's movement speed, dealing 65.0+25.0% of Phantom Assassin's attack damage as physical damage and applying attack effects from items and abilities.
 
