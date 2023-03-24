@@ -1,132 +1,29 @@
 # MeiiMeii
-Infomation About My Character Game
+Infomation About Gambling In Wikipedia Indonesia
 
-![image](https://user-images.githubusercontent.com/128576237/226827987-88974398-a688-4847-a7b3-42cf8b4888e4.png)
+<strong>Perjudian</strong>
 
-PHANTOM ASSASSIN
+Perjudian, toto atau totalisator adalah permainan di mana pemain bertaruh untuk memilih satu pilihan di antara beberapa pilihan di mana hanya satu pilihan saja yang benar dan menjadi pemenang. Pemain yang kalah taruhan akan memberikan taruhannya kepada si pemenang. Peraturan dan jumlah taruhan ditentukan sebelum pertandingan dimulai.
 
-BLINKS ONTO HER FOES WITH CRITICAL STRIKES
+Undian dapat dipandang sebagai perjudian di mana aturan mainnya adalah dengan cara menentukan suatu keputusan dengan pemilihan acak. Undian biasanya diadakan untuk menentukan pemenang suatu hadiah. Contohnya adalah undian di mana peserta harus membeli sepotong tiket yang diberi nomor. Nomor tiket-tiket ini lantas secara acak ditarik dan nomor yang ditarik adalah nomor pemenang. Pemegang tiket dengan nomor pemenang ini berhak atas hadiah tertentu.
 
-Through a process of divination, children are selected for upbringing by the Sisters of the Veil, an order that considers assassination a sacred part of the natural order. The Veiled Sisters identify targets through meditation and oracular utterances. They accept no contracts, and never seem to pursue targets for political or mercenary reasons. Their killings bear no relation to any recognizable agenda, and can seem to be completely random: A figure of great power is no more likely to be eliminated than a peasant or a well digger. Whatever pattern the killings may contain, it is known only to them. They treat their victims as sacrifices, and death at their hand is considered an honor. Raised with no identity except that of their order, any Phantom Assassin can take the place of any other; their number is not known. Perhaps there are many, perhaps there are few. Nothing is known of what lies under the Phantom Veil. Except that this one, from time to time, when none are near enough to hear, is known to stir her veils with the forbidden whisper of her own name: Mortred.
+<strong>Aspek hukum</strong>
 
-Her skill
+Banyak negara yang melarang perjudian sampai taraf tertentu, karena perjudian mempunyai konsekuensi sosial kurang baik, dan mengatur batas yurisdiksi paling sah tentang undang-undang berjudi sampai taraf tertentu. Beberapa negara-negara Islam melarang perjudian, hampir semua negara-negara mengatur itu. Kebanyakan hukum negara tidak mengatur tentang perjudian, dan memandang sebagai akibat konsekuensi masing-masing, dan tak dapat dilaksanakan oleh proses yang sah sebagai undang-undang. Dengan begitu organisasi kriminal sering mengambil alih penyelenggaraan dari utang perjudian besar, kadang-kadang menggunakan metode yang kejam, seperti mafia, triad, atau yakuza.
 
-![image](https://user-images.githubusercontent.com/128576237/226828340-28605a83-0424-43be-9298-a3a36e145291.png)
+Beberapa masalah dalam perjudian:
 
-STIFLING DAGGER
+Beberapa orang akan menjadi ketagihan. Mereka tidak dapat berhenti berjudi, dan kehilangan banyak uang.
+Kadang-kadang judi tidaklah adil. Jika Anda menang atau kalah, maka Anda harus membayar sejumlah uang.
+Beberapa perjudian yang sama sering dinamakan lotre, lotto (atau lottery), ada beberapa negara yang mengadakan perjudian ini. Biasanya, mereka harus menebak 7 dari 45 atau 50 nomor yang benar sebelum diundi.
 
-Throws a dagger slowing the enemy unit's movement speed, dealing 65.0+25.0% of Phantom Assassin's attack damage as physical damage and applying attack effects from items and abilities.
+<strong>Undian</strong>
 
-ABILITY: Unit Target
+Selain bermakna perjudian, undian dapat digunakan dalam sebuah peramalan, untuk menentukan sesuatu berdasarkan hasil yang keluar dari yang diundi.
 
-AFFECTS: Enemy Units
+<strong>Apa Itu Slot?</strong>
 
-DAMAGE TYPE: Physical
+<a href="http://siliconfilm.com/">Slot</a> adalah permainan judi yang dimainkan pada mesin slot. Mesin slot terdiri dari tiga hingga lima gulungan yang berputar ketika tombol ditekan. Tujuannya adalah untuk mencocokkan simbol pada gulungan yang berputar dan memenangkan uang.
 
-PIERCES SPELL IMMUNITY: Yes
+Di kasino, mesin slot bisa ditemukan di area permainan slot atau area permainan utama. Ada ratusan, bahkan ribuan, mesin slot yang tersedia di kasino dan di situs web perjudian online.
 
-DISPELLABLE: Yes
-
-MOVE SLOW: -50.0%
-
-SLOW DURATION: 2.2 / 2.8 / 3.4 / 4.0
-
-BASE DAMAGE: 65.0 / 70.0 / 75.0 / 80.0
-
-ATTACK DAMAGE: 25.0% / 40.0% / 55.0% / 70.0%
-
-CAST RANGE: 550.0 / 750.0 / 950.0 / 1150.0
-
-![image](https://user-images.githubusercontent.com/128576237/226828548-76725267-bb69-4626-9561-501951147270.png)
-
-PHANTOM STRIKE
-
-Teleports to a unit, friendly or enemy, and grants bonus attack speed and lifesteal while attacking if it's an enemy unit.
-
-ABILITY: Unit Target
-
-PIERCES SPELL IMMUNITY: Yes
-
-DISPELLABLE: Yes
-
-BONUS ATTACK SPEED: 80.0 / 110.0 / 140.0 / 170.0
-
-DURATION: 2.0
-
-LIFESTEAL: 10.0% / 15.0% / 20.0% / 25.0%
-
-CAST RANGE: 1000.0
-
-![image](https://user-images.githubusercontent.com/128576237/226828741-a046272b-de68-4cf3-ac48-a7ede235be25.png)
-
-BLUR
-
-Phantom Assassin focuses inward, increasing her ability to evade enemy attacks. Can be activated to blur her body, causing her to be impossible to see until near enemy heroes, towers, or outposts.
-
-ABILITY: No Target
-
-AFFECTS: Allied Heroes
-
-DISPELLABLE: No
-
-EVASION: 20.0% / 30.0% / 40.0% / 50.0%
-
-DURATION: 25.0
-
-VANISH RADIUS: 400.0
-
-VANISH BUFFER: 0.5
-
-COOLDOWN: 10.0
-
-VANISH BUFFER: 0.8
-
-(Stacks diminishingly with other sources of Evasion)
-
-(This is The ULTIMATE SKILL)
-
-![image](https://user-images.githubusercontent.com/128576237/226828796-f13a4352-5b23-484d-9441-33f222183ab0.png)
-
-COUP DE GRACE
-
-Phantom Assassin refines her combat abilities, gaining a chance of delivering a devastating critical strike to enemy units. Stifling Dagger shares the same critical strike chance.
-
-*Skill of Aghanim And Shard*
-
-![image](https://user-images.githubusercontent.com/128576237/226828848-41d2fa42-116d-42f4-8bab-c3b711330f3e.png)
-
-FAN OF KNIVES
-
-(SHARD GRANTS NEW ABILITY)
-Phantom Assassin releases sharp blades around her, dealing a percentage of each victim's max health on impact and applying Break.
-
-![image](https://user-images.githubusercontent.com/128576237/226828881-23a034dc-9b81-4ccc-adee-933d6188ef3f.png)
-
-BLUR
-
-SCEPTER ABILITY UPGRADE
-Causes Blur to have instant cast time and applies a dispel. Any time Phantom Assassin gets a hero kill, her abilities are refreshed. Reduces cooldown and increases Vanish Buffer
-
-![image](https://user-images.githubusercontent.com/128576237/226828936-1acae81e-6c8e-4dce-8343-9cff630095ae.png)
-
-Phantom Lancer
-
-Skill tat i like the most is this
-
-![image](https://user-images.githubusercontent.com/128576237/226829009-aedb2dd1-704c-47d7-8cc2-8c556bde6ce9.png)
-
-PHANTOM RUSH
-
-When targetting an enemy for an attack, Phantom Lancer quickly charges into range, gaining a temporary agility boost. Phantom Lancer's illusions also have this ability.
-
-ABILITY: No Target
-
-DISPELLABLE: Yes
-
-MIN RUSH DISTANCE: 200.0
-
-MAX RUSH DISTANCE: 600.0 / 675.0 / 750.0 / 825.0
-
-<a href="https://bit.ly/3JJg1r3">BONUS</a> AGILITY: 10.0 / 20.0 / 30.0 / 40.0
-
-BONUS AGILITY DURATION:1.5
