@@ -26,4 +26,3 @@ Selain bermakna perjudian, undian dapat digunakan dalam sebuah peramalan, untuk 
 <a href="http://siliconfilm.com/">Slot</a> adalah permainan judi yang dimainkan pada mesin slot. Mesin slot terdiri dari tiga hingga lima gulungan yang berputar ketika tombol ditekan. Tujuannya adalah untuk mencocokkan simbol pada gulungan yang berputar dan memenangkan uang.
 
 Di kasino, mesin slot bisa ditemukan di area permainan slot atau area permainan utama. Ada ratusan, bahkan ribuan, mesin slot yang tersedia di kasino dan di situs web perjudian online.
-
